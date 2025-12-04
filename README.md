@@ -1,4 +1,4 @@
-# ABBP-MSSF: Antibody Binding Prediction Model with Multi-Scale Structural Features
+Antibody–Antigen Binding Free Energy Prediction via Structure–Sequence Multimodal Fusion 
 
 This repository contains the implementation of the ABBP-MSSF model, which predicts antibody-antigen binding affinities using multi-scale structural features. The model leverages graph neural networks, sequence embeddings from ESM-2, and structural mutations processed via FoldX.
 
